@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "img": "https://i.postimg.cc/FKSDnFS9/img1.png",
+      "id": 1,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/m2xM83wF/img2.png",
+      "id": 2,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/vZTVmP8k/img3.png",
+      "id": 3,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/Nf1XVyJC/img4.png",
+      "id": 4,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/760HBMmk/img5.png",
+      "id": 5,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/tgDNK4qT/img6.png",
+      "id": 6,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/3JH906c3/img7.png",
+      "id": 7,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/9fSYmN95/img8.png",
+      "id": 8,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/FKSDnFS9/img1.png",
+      "id": 9,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/m2xM83wF/img2.png",
+      "id": 10,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/vZTVmP8k/img3.png",
+      "id": 11,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/Nf1XVyJC/img4.png",
+      "id": 12,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/bJ77ZFjT/img5.png",
+      "id": 13,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/tgDNK4qT/img6.png",
+      "id": 14,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/3JH906c3/img7.png",
+      "id": 15,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/9fSYmN95/img8.png",
+      "id": 16,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    }
+  ],
+
+  "goods": [
+    {
+      "img": "https://i.postimg.cc/hGLqyXLV/img21.png",
+      "id": 1,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/MKMN3cxX/img22.png",
+      "id": 2,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/1zjYKPTD/img23.png",
+      "id": 3,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/BZxMjxqT/img24.png",
+      "id": 4,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/hGLqyXLV/img21.png",
+      "id": 5,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/MKMN3cxX/img22.png",
+      "id": 6,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/1zjYKPTD/img23.png",
+      "id": 7,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    },
+    {
+      "img": "https://i.postimg.cc/BZxMjxqT/img24.png",
+      "id": 8,
+      "type": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+    }
+  ],
+
+  "colors": [
+    {
+      "id": 1,
+      "color": "#73A39D"
+    },
+    {
+      "id": 2,
+      "color": "#84CC4C"
+    },
+    {
+      "id": 3,
+      "color": "#B5A8A1"
+    },
+    {
+      "id": 4,
+      "color": "#AB844A"
+    },
+    {
+      "id": 5,
+      "color": "#6977F0"
+    },
+    {
+      "id": 6,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": 7,
+      "color": "#141414"
+    },
+    {
+      "id": 8,
+      "color": "#FF0000"
+    }
+  ],
+
+  "news": [
+    {
+      "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": " Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 1
+    },
+    {
+      "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 2
+    },
+    {
+      "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 3
+    },
+    {
+      "img": "https://i.postimg.cc/FdmWjdD9/newsimg4.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 4
+    },
+    {
+      "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 5
+    },
+    {
+      "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 6
+    },
+    {
+      "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
+      "id": 7
+    }
+  ],
+  "collections": [
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "descr": "Повседневная одежда",
+      "id": 1
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "descr": "Одежда на пляж",
+      "id": 2
+    },
+    {
+      "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
+      "descr": "Юбки",
+      "id": 3
+    },
+    {
+      "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
+      "descr": "Джинсы",
+      "id": 4
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "descr": "Повседневная одежда",
+      "id": 5
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "descr": "Одежда на пляж",
+      "id": 6
+    },
+    {
+      "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
+      "descr": "Юбки",
+      "id": 7
+    },
+    {
+      "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
+      "descr": "Джинсы",
+      "id": 8
+    }
+  ],
+
+  "footer": [
+    {
+      "phone": "+996 500 123 456",
+      "mail": "mail@gmail.com",
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "whatsapp": "Whatsapp",
+      "logo": "https://i.postimg.cc/R02Gr4x4/Logo.png",
+      "id": 1
+    }
+  ],
+  "strength": [
+    {
+      "img": "https://i.postimg.cc/prKB4tpm/money.png",
+      "title": "Удобные способы оплаты",
+      "descr": "Мы предлагаем возможность безналичной оплаты",
+      "id": 1
+    },
+    {
+      "img": "https://i.postimg.cc/7ZZgMzMG/truck.png",
+      "title": "Cвоевремнная доставка",
+      "descr": "100% гарантия возврата товара - 14 дней на возврат, без скандалов и истерик.",
+      "id": 2
+    },
+    {
+      "img": "https://i.postimg.cc/qqrKt6v7/airphone.png",
+      "title": "Профессиональная консультация",
+      "descr": "Мы проконсультируем и индивидуально подойдем к Вашему заказу",
+      "id": 3
+    },
+    {
+      "img": "https://i.postimg.cc/BZjgybbP/bag.png",
+      "title": "Акции и бонусы для покупателей",
+      "descr": "Промокоды со скидками для постоянных клиентов, акции на новые позиции",
+      "id": 4
+    }
+  ],
+  "hero": [
+    {
+      "img": "https://i.postimg.cc/W3LXJXyV/hero-img.png",
+      "id": 1
+    }
+  ],
+  "about": [
+    {
+      "img1": "https://i.postimg.cc/L5rzrXMp/about-img1.png",
+      "img2": "https://i.postimg.cc/VvbtB80H/about-img2.png",
+      "img3": "https://i.postimg.cc/cJ9TFd6s/about-img3.png",
+      "title": "О нас",
+      "descr": "У нас Вы найдёте всё, что Вам так нужно. Ассортимент магазина постоянно расширяется и дополняется в зависимости от пожеланий клиентов. Женская одежда из наших коллекций – это комфортная, стильная и качественная одежда не только на каждый день, но и для любых ситуаций по доступным ценам.Натуральные материалы, продуманные силуэты, современный дизайн и возможность легкого сочетания моделей помогут Вам всегда оставаться в центре внимания и чувствовать себя уместно в любой ситуации.Если Вы любите одеваться ярко, модно и оригинально, у нас Вы найдете все необходимое, чтобы всегда быть в центре внимания. У нас большая коллекция для любого торжества и праздника, которая сможет удовлетворить вкус самой взыскательной модницы! А для деловых ситуаций, в которых Вам непременно нужно выглядеть элегантно и стильно, мы предлагаем Вам одежду из коллекции 'деловой стиль и офис'. Мода постоянно диктует нам свои требования и для современной девушки, желающей идти в ногу со временем, важно иметь возможность постоянно пополнять свой гардероб стильной одеждой.",
+      "id": 1
+    }
+  ],
+  "collects": [
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "descr": "Коллекция лето 2020",
+      "id": 1
+    },
+    {
+      "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
+      "descr": "Коллекция лето 2020",
+      "id": 2
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "descr": "Коллекция осень 2020",
+      "id": 3
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "descr": "Коллекция зима 2020",
+      "id": 4
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "descr": "Для выезда на природу",
+      "id": 5
+    },
+    {
+      "img": "https://i.postimg.cc/6Q5pfKfK/img-Summer2.png",
+      "descr": "Платья",
+      "id": 6
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "descr": "Платья",
+      "id": 7
+    },
+    {
+      "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
+      "descr": "Юбки",
+      "id": 8
+    }
+  ]
+}

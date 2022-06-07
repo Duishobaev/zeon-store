@@ -1,0 +1,97 @@
+.header {
+  display: flex;
+  justify-content: center;
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+.header_top {
+  display: flex;
+  justify-content: space-between;
+  padding: 22px 0;
+  box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.05);
+}
+
+.nav_left {
+  display: flex;
+  list-style-type: none;
+}
+.nav_left li {
+  margin-right: 24px;
+  font-family: "Montserrat", sans-serif;
+  color: #393939;
+  font-weight: 400;
+}
+
+.nav_right span {
+  font-family: "Montserrat", sans-serif;
+  color: #979797;
+  font-weight: 400;
+}
+
+.nav_right a {
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  color: #393939;
+  padding-left: 6px;
+}
+
+.header_center {
+  padding-top: 9px;
+  padding-bottom: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header_center__left {
+  display: flex;
+  align-items: center;
+}
+
+.header_center__left img {
+  margin-right: 34px;
+}
+
+.header_center__left input {
+  width: 662px;
+  height: 44px;
+  background: #f8f8f8;
+  border: 1px solid #e0e0e0;
+  background-image: url("../../images/searchLogo.svg");
+  background-repeat: no-repeat;
+  background-position: 620px 10px;
+  padding: 13px 20px;
+  margin-right: 35px;
+}
+
+.header_center__right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_center__right1 {
+  display: flex;
+  align-items: center;
+}
+
+.header_center__right1 img {
+  margin-right: 10px;
+}
+
+.header_center__right1 span {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #393939;
+}
+.line {
+  margin: 0 7px;
+  width: 24px;
+  height: 0px;
+  opacity: 0.6;
+  border: 1px solid #d3d3d3;
+  transform: rotate(90deg);
+}

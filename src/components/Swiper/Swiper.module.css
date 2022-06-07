@@ -1,0 +1,10 @@
+.slider {
+  width: 1168px;
+  height: 488px;
+  margin-bottom: 44px;
+}
+
+.slider_inner img {
+  width: 1168px;
+  height: 488px;
+}

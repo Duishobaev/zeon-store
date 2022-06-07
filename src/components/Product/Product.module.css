@@ -1,0 +1,99 @@
+.title {
+  display: flex;
+}
+
+.homeTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: #393939;
+  margin: 0 auto;
+}
+
+.home {
+  margin: 18px 0 8px 0;
+}
+
+.photos {
+  width: 284px;
+  height: 437px;
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list {
+  background: #ffffff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #393939;
+  padding: 6px 8px;
+}
+.more {
+  width: 107px;
+  height: 32px;
+  background: #1d1d1b;
+  color: #fff;
+  border: none;
+  margin: 0 auto;
+  margin-top: 16px;
+  margin-bottom: 44px;
+}
+
+.homeContent {
+  background: #ececec;
+}
+
+.more:hover {
+  background-color: #2e2e2b;
+}
+
+.size {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: justify;
+  color: #7c7c7c;
+}
+
+.price {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: justify;
+  color: #393939;
+}
+
+.title_dress {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: justify;
+  color: #393939;
+}
+
+.home_item {
+  display: flex;
+  flex-direction: column;
+}
+
+.heart {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 248px;
+}
