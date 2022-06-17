@@ -18,7 +18,7 @@
 
 .about_top {
   display: flex;
-  margin-bottom: 21px;
+  margin: 21px 0;
 }
 .about_main {
   margin-right: 16px;

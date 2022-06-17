@@ -34,7 +34,7 @@ const ColList = () => {
                   <img className={classes.photos} src={item.img} alt="/" />
                   <p className={classes.descr}>{item.descr}</p>
                 </div>
-                <Link to="collections">
+                <Link to="collections/summer">
                   <button className={classes.btn_col}>
                     Смотреть все <ArrowForwardIosIcon />
                   </button>

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import classes from "../Collections/Collections.module.css";
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import { getContextCol } from "../../context/ContextCol";
 
@@ -14,17 +14,19 @@ const Collections = () => {
 
   return (
     <>
+      <div className="wrapper">
+        <div className={classes.collection_top}>
+          <Link to="/">
+            <p className={classes.collection_main}>Главная</p>
+          </Link>
+          <p className={classes.collection_main}>/</p>
+          <p className={classes.collection_top__grey}>Коллекции</p>
+        </div>
+      </div>
       <div className={classes.collectionContent}>
         <div className={classes.wrapper}>
-          <div className={classes.collection_top}>
-            <Link to="/">
-              <p className={classes.collection_main}>Главная</p>
-            </Link>
-            <p className={classes.collection_main}>/</p>
-            <p className={classes.collection_top__grey}>Коллекции</p>
-          </div>
           <div className={classes.title}>
-            <div className={classes.homeTitle}>Коллекция</div>
+            <div className={classes.homeTitle}>Коллекции</div>
           </div>
           <div className={classes.content}>
             {collects.map((item) => {

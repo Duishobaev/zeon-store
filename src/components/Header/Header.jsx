@@ -5,10 +5,14 @@ import logo from "../../images/zeonLogo.svg";
 import like from "../../images/likeLogo.svg";
 import heartAlarm from "../../assets/heartAlarm.svg";
 import cart from "../../images/cartLogo.svg";
+import fullCart from "../../images/fullCartLogo.svg";
 import { favoriteContext } from "../../context/FavoriteContext";
+import { cartContext } from "../../context/CartContext";
 
 const Header = () => {
   const { favoriteLength } = useContext(favoriteContext);
+  const { cartLen } = useContext(cartContext);
+
   return (
     <>
       <header className={classes.header}>
@@ -30,7 +34,7 @@ const Header = () => {
             <div className={classes.nav_right}>
               <span>
                 Тел:
-                <a href="">+996565656565</a>
+                <a href="tel:+99656565656">+996565656565</a>
               </span>
             </div>
           </div>
@@ -39,7 +43,7 @@ const Header = () => {
               <Link to="/">
                 <img src={logo} alt="" />
               </Link>
-              <input type="text" placeholder="Поиск" />
+              <input className={classes.inp} type="text" placeholder="Поиск" />
             </div>
             <div className={classes.header_center__right}>
               <div className={classes.header_center__right1}>
@@ -55,7 +59,11 @@ const Header = () => {
               </div>
               <div className={classes.line}></div>
               <div className={classes.header_center__right1}>
-                <img src={cart} alt="" />
+                {cartLen > 0 ? (
+                  <img src={fullCart} alt="#" />
+                ) : (
+                  <img src={cart} alt="#" />
+                )}
                 <Link to="/cart">
                   <span>Корзина</span>
                 </Link>

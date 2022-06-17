@@ -1,0 +1,94 @@
+.simTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #393939;
+  margin-bottom: 16px;
+}
+
+.simContent {
+  display: flex;
+}
+
+.simImg {
+  width: 226px;
+  weight: 332px;
+  margin-right: 8px;
+}
+
+.simPrice {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.simPrice_inner1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  text-decoration-line: line-through;
+  color: #979797;
+  margin-right: 8px;
+}
+
+.simPrice_inner2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1d1b;
+}
+
+.cotton {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  color: #393939;
+  margin-bottom: 6px;
+}
+
+.simSize {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.simSize_inner1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.04em;
+  color: #979797;
+}
+
+.simSize_inner2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.04em;
+  color: #979797;
+}
+
+.mult {
+  margin-bottom: 64px;
+}
+
+.simLike {
+  display: flex;
+  position: relative;
+}
+.heart {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 190px;
+}

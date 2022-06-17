@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from "react";
-import footerLogo from "../../images/footerLogo.svg";
 import phoneIcon from "../../images/phoneIcon.svg";
 import mailIcon from "../../images/mailIcon.svg";
-import instaIcon from "../../images/InstaLogo.svg";
+import instaIcon from "../../images/instaIcon.png";
 import telegIcon from "../../images/TelegIcon.svg";
-import whatsIcon from "../../images/WhatsIcon.svg";
+import whatsIcon from "../../images/WhatsIcon.png";
 import classes from "../Footer/Footer.module.css";
 import { Link } from "react-router-dom";
 import axios from "axios";
@@ -59,15 +58,15 @@ const Footer = () => {
                   <ul>
                     <li>
                       <img src={phoneIcon} alt="" />
-                      <a href="">{item.phone}</a>
+                      <a href="tel:+99656565656">{item.phone}</a>
                     </li>
                     <li>
                       <img src={phoneIcon} alt="" />
-                      <a href="">{item.phone}</a>
+                      <a href="tel:+99656565656">{item.phone}</a>
                     </li>
                     <li>
                       <img src={mailIcon} alt="" />
-                      <a href="">{item.mail}</a>
+                      <a href="https://mail.ru">{item.mail}</a>
                     </li>
                   </ul>
                 </div>
@@ -76,15 +75,15 @@ const Footer = () => {
                   <ul>
                     <li>
                       <img src={instaIcon} alt="" />
-                      <a href="">{item.instagram}</a>
+                      <a href="https://instagram.com">{item.instagram}</a>
                     </li>
                     <li>
                       <img src={telegIcon} alt="" />
-                      <a href="">{item.telegram}</a>
+                      <a href="https://telegram.com">{item.telegram}</a>
                     </li>
                     <li>
                       <img src={whatsIcon} alt="" />
-                      <a href="">{item.whatsapp}</a>
+                      <a href="https://whatsapp.com">{item.whatsapp}</a>
                     </li>
                   </ul>
                 </div>

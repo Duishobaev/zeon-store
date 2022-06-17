@@ -29,7 +29,12 @@ export default function Swiper() {
     <>
       {hero.map((item) => {
         return (
-          <Slider key={item.id} {...settings} className={classes.slider}>
+          <Slider
+            autoplay={true}
+            key={item.id}
+            {...settings}
+            className={classes.slider}
+          >
             <div className={classes.slider_inner}>
               <img src={item.img} alt="" />
             </div>

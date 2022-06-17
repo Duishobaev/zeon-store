@@ -61,6 +61,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
+  border: none;
 }
 .btn_col:hover {
   color: #1d1d1b;
@@ -77,4 +78,9 @@
   margin: 0 auto;
   margin-top: 16px;
   margin-bottom: 44px;
+  cursor: pointer;
+}
+
+.more:hover {
+  background-color: #292828;
 }

@@ -33,7 +33,7 @@ const Home = () => {
           </div>
           <div className={classes.content}>
             {items.map((item) => (
-              <Product key={item.id} item={item} />
+              <Product key={item.id} item={item} sale={item.sale} />
             ))}
             {max ? (
               <button className={classes.more} onClick={more}>

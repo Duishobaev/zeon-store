@@ -5,7 +5,6 @@ import classes from "../RandomView/RandomView.module.css";
 import { favoriteContext } from "../../context/FavoriteContext";
 
 const RandomView = ({ item }) => {
-  console.log(item);
   const { addDelFav, isProdInFav } = useContext(favoriteContext);
   const [inFav, setInFav] = useState(isProdInFav(item.id));
 

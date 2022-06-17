@@ -54,6 +54,7 @@
 }
 .more:hover {
   background-color: #2e2e2b;
+  cursor: pointer;
 }
 
 .size {

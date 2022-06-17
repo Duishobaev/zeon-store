@@ -1,4 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import { getContext } from "../../context/Context";
 import classes from "../NewCol/NewCol.module.css";
 
@@ -29,7 +30,9 @@ const NewCol = () => {
             return (
               <div className={classes.home} key={item.id}>
                 <div className={classes.home_item}>
-                  <img className={classes.photos} src={item.img} alt="/" />
+                  <Link to={`/${item.collection}/${item.id}`}>
+                    <img className={classes.photos} src={item.img} alt="/" />
+                  </Link>
                   <div className={classes.list}>
                     <ul>
                       <li className={classes.title_dress}>{item.type}</li>

@@ -20,15 +20,17 @@ const AboutUs = () => {
 
   return (
     <>
+      <div className="wrapper">
+        <div className={classes.about_top}>
+          <Link to="/">
+            <p className={classes.about_main}>Главная</p>
+          </Link>
+          <p className={classes.about_main}>/</p>
+          <p className={classes.about_top__grey}>О нас</p>
+        </div>
+      </div>
       <div className={classes.aboutContent}>
         <div className={classes.wrapper}>
-          <div className={classes.about_top}>
-            <Link to="/">
-              <p className={classes.about_main}>Главная</p>
-            </Link>
-            <p className={classes.about_main}>/</p>
-            <p className={classes.about_top__grey}>О нас</p>
-          </div>
           {about.map((item) => {
             return (
               <div key={item.id} className={classes.aboutUs}>

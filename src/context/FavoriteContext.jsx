@@ -1,16 +1,18 @@
 import React, { useReducer } from "react";
 export const favoriteContext = React.createContext();
+
 const INIT_STATE = {
   fav: JSON.parse(localStorage.getItem("fav")),
   favoriteLength: 0,
 };
+
 function reducer(state = INIT_STATE, action) {
   switch (action.type) {
     case "GET_FAV":
       return {
         ...state,
         fav: action.payload,
-        favoriteLength: action.payload.products.length,
+        favoriteLength: action.payload.products?.length,
       };
     default:
       return state;
@@ -43,7 +45,7 @@ const FavoriteContextProvider = ({ children }) => {
     let newProd = {
       item: product,
     };
-    let checkProdInFav = fav.products.some((obj) => {
+    let checkProdInFav = fav?.products?.some((obj) => {
       return obj.item.id === product.id;
     });
     if (checkProdInFav) {
@@ -51,7 +53,7 @@ const FavoriteContextProvider = ({ children }) => {
         return obj.item.id !== product.id;
       });
     } else {
-      fav.products.push(newProd);
+      fav?.products?.push(newProd);
     }
     localStorage.setItem("fav", JSON.stringify(fav));
     getFav();
@@ -59,7 +61,7 @@ const FavoriteContextProvider = ({ children }) => {
 
   const isProdInFav = (id) => {
     let fav = createFav();
-    let exist = fav.products.some((obj) => {
+    let exist = fav?.products?.some((obj) => {
       return obj.item.id === id;
     });
     return exist;

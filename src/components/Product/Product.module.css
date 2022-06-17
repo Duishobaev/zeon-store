@@ -23,6 +23,7 @@
   width: 284px;
   height: 437px;
 }
+
 .content {
   display: flex;
   flex-wrap: wrap;
@@ -38,6 +39,7 @@
   color: #393939;
   padding: 6px 8px;
 }
+
 .more {
   width: 107px;
   height: 32px;
@@ -53,6 +55,24 @@
   background: #ececec;
 }
 
+.sale {
+  position: absolute;
+}
+
+.discount {
+  position: absolute;
+  width: 26.48px;
+  top: 9px;
+  left: 5px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  transform: matrix(0.71, -0.7, 0.71, 0.71, 0, 0);
+}
 .more:hover {
   background-color: #2e2e2b;
 }
@@ -65,6 +85,7 @@
   line-height: 16px;
   text-align: justify;
   color: #7c7c7c;
+  margin-bottom: 10px;
 }
 
 .price {
@@ -75,6 +96,7 @@
   line-height: 20px;
   text-align: justify;
   color: #393939;
+  margin-bottom: 6px;
 }
 
 .title_dress {
@@ -85,15 +107,42 @@
   line-height: 17px;
   text-align: justify;
   color: #393939;
+  margin-bottom: 6px;
 }
 
 .home_item {
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .heart {
+  display: none;
+}
+
+.home_item:hover .heart {
   position: absolute;
   margin-top: 13px;
   margin-left: 248px;
+  display: block;
+}
+
+.fullHeart {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 248px;
+  display: block;
+}
+
+.disc {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  display: flex;
+  align-items: flex-end;
+  text-decoration-line: line-through;
+  color: #adadad;
+  margin-left: 6px;
+  margin-bottom: 6px;
 }

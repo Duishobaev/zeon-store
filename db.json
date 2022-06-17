@@ -4,230 +4,532 @@
       "img": "https://i.postimg.cc/FKSDnFS9/img1.png",
       "id": 1,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer",
+      "sale": 25,
+      "discount": "342"
     },
     {
       "img": "https://i.postimg.cc/m2xM83wF/img2.png",
       "id": 2,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/vZTVmP8k/img3.png",
       "id": 3,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/Nf1XVyJC/img4.png",
       "id": 4,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/760HBMmk/img5.png",
       "id": 5,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/tgDNK4qT/img6.png",
       "id": 6,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer",
+      "sale": 25,
+      "discount": 342
     },
     {
       "img": "https://i.postimg.cc/3JH906c3/img7.png",
       "id": 7,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/9fSYmN95/img8.png",
       "id": 8,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer",
+      "sale": 40,
+      "discount": 546
     },
     {
       "img": "https://i.postimg.cc/FKSDnFS9/img1.png",
       "id": 9,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/m2xM83wF/img2.png",
       "id": 10,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/vZTVmP8k/img3.png",
       "id": 11,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/Nf1XVyJC/img4.png",
       "id": 12,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
-      "img": "https://i.postimg.cc/bJ77ZFjT/img5.png",
+      "img": "https://i.postimg.cc/3JH906c3/img7.png",
       "id": 13,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/tgDNK4qT/img6.png",
       "id": 14,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/3JH906c3/img7.png",
       "id": 15,
       "type": "Вечернее платье",
-      "price": "1365 р",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/9fSYmN95/img8.png",
       "id": 16,
-      "type": "Вечернее платье",
-      "price": "1365 р",
+      "descr": "Вечернее платье",
+      "price": "1365",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "summer"
     }
   ],
 
-  "goods": [
+  "skirts": [
     {
       "img": "https://i.postimg.cc/hGLqyXLV/img21.png",
-      "id": 1,
+      "id": 17,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/MKMN3cxX/img22.png",
-      "id": 2,
+      "id": 18,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/1zjYKPTD/img23.png",
-      "id": 3,
+      "id": 19,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/BZxMjxqT/img24.png",
-      "id": 4,
+      "id": 20,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/hGLqyXLV/img21.png",
-      "id": 5,
+      "id": 21,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/MKMN3cxX/img22.png",
-      "id": 6,
+      "id": 22,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/1zjYKPTD/img23.png",
-      "id": 7,
+      "id": 23,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     },
     {
       "img": "https://i.postimg.cc/BZxMjxqT/img24.png",
-      "id": 8,
+      "id": 24,
       "type": "Вечернее платье",
       "price": "1365 р",
       "size": "45-50",
-      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png"
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "collection": "skirts",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     }
   ],
 
   "colors": [
     {
-      "id": 1,
+      "id": 25,
       "color": "#73A39D"
     },
     {
-      "id": 2,
+      "id": 26,
       "color": "#84CC4C"
     },
     {
-      "id": 3,
+      "id": 27,
       "color": "#B5A8A1"
     },
     {
-      "id": 4,
+      "id": 28,
       "color": "#AB844A"
     },
     {
-      "id": 5,
+      "id": 29,
       "color": "#6977F0"
     },
     {
-      "id": 6,
+      "id": 30,
       "color": "#FFFFFF"
     },
     {
-      "id": 7,
+      "id": 31,
       "color": "#141414"
     },
     {
-      "id": 8,
+      "id": 32,
       "color": "#FF0000"
     }
   ],
@@ -237,85 +539,100 @@
       "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": " Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 1
+      "id": 33,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 2
+      "id": 34,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 3
+      "id": 35,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/FdmWjdD9/newsimg4.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 4
+      "id": 36,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 5
+      "id": 37,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 6
+      "id": 38,
+      "collection": "skirts"
     },
     {
       "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
       "title": "Lorem ipsum dolor sit amet",
       "descr": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.",
-      "id": 7
+      "id": 39,
+      "collection": "skirts"
     }
   ],
   "collections": [
     {
       "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
       "descr": "Повседневная одежда",
-      "id": 1
+      "id": 40,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
       "descr": "Одежда на пляж",
-      "id": 2
+      "id": 41,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
       "descr": "Юбки",
-      "id": 3
+      "id": 42,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
       "descr": "Джинсы",
-      "id": 4
+      "id": 43,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
       "descr": "Повседневная одежда",
-      "id": 5
+      "id": 44,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
       "descr": "Одежда на пляж",
-      "id": 6
+      "id": 45,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
       "descr": "Юбки",
-      "id": 7
+      "id": 46,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
       "descr": "Джинсы",
-      "id": 8
+      "id": 47,
+      "collection": "summer"
     }
   ],
 
@@ -327,7 +644,7 @@
       "telegram": "Telegram",
       "whatsapp": "Whatsapp",
       "logo": "https://i.postimg.cc/R02Gr4x4/Logo.png",
-      "id": 1
+      "id": 48
     }
   ],
   "strength": [
@@ -335,31 +652,31 @@
       "img": "https://i.postimg.cc/prKB4tpm/money.png",
       "title": "Удобные способы оплаты",
       "descr": "Мы предлагаем возможность безналичной оплаты",
-      "id": 1
+      "id": 49
     },
     {
       "img": "https://i.postimg.cc/7ZZgMzMG/truck.png",
       "title": "Cвоевремнная доставка",
       "descr": "100% гарантия возврата товара - 14 дней на возврат, без скандалов и истерик.",
-      "id": 2
+      "id": 50
     },
     {
       "img": "https://i.postimg.cc/qqrKt6v7/airphone.png",
       "title": "Профессиональная консультация",
       "descr": "Мы проконсультируем и индивидуально подойдем к Вашему заказу",
-      "id": 3
+      "id": 51
     },
     {
       "img": "https://i.postimg.cc/BZjgybbP/bag.png",
       "title": "Акции и бонусы для покупателей",
       "descr": "Промокоды со скидками для постоянных клиентов, акции на новые позиции",
-      "id": 4
+      "id": 52
     }
   ],
   "hero": [
     {
       "img": "https://i.postimg.cc/W3LXJXyV/hero-img.png",
-      "id": 1
+      "id": 53
     }
   ],
   "about": [
@@ -369,49 +686,2376 @@
       "img3": "https://i.postimg.cc/cJ9TFd6s/about-img3.png",
       "title": "О нас",
       "descr": "У нас Вы найдёте всё, что Вам так нужно. Ассортимент магазина постоянно расширяется и дополняется в зависимости от пожеланий клиентов. Женская одежда из наших коллекций – это комфортная, стильная и качественная одежда не только на каждый день, но и для любых ситуаций по доступным ценам.Натуральные материалы, продуманные силуэты, современный дизайн и возможность легкого сочетания моделей помогут Вам всегда оставаться в центре внимания и чувствовать себя уместно в любой ситуации.Если Вы любите одеваться ярко, модно и оригинально, у нас Вы найдете все необходимое, чтобы всегда быть в центре внимания. У нас большая коллекция для любого торжества и праздника, которая сможет удовлетворить вкус самой взыскательной модницы! А для деловых ситуаций, в которых Вам непременно нужно выглядеть элегантно и стильно, мы предлагаем Вам одежду из коллекции 'деловой стиль и офис'. Мода постоянно диктует нам свои требования и для современной девушки, желающей идти в ногу со временем, важно иметь возможность постоянно пополнять свой гардероб стильной одеждой.",
-      "id": 1
+      "id": 54
     }
   ],
   "collects": [
     {
       "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
       "descr": "Коллекция лето 2020",
-      "id": 1
+      "id": 55,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/h4CHsNJ4/img34.png",
       "descr": "Коллекция лето 2020",
-      "id": 2
+      "id": 56,
+      "collection": "summer"
     },
     {
       "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
       "descr": "Коллекция осень 2020",
-      "id": 3
+      "id": 57,
+      "collection": "autumn"
     },
     {
       "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
       "descr": "Коллекция зима 2020",
-      "id": 4
+      "id": 58,
+      "collection": "winter"
     },
     {
       "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
       "descr": "Для выезда на природу",
-      "id": 5
+      "id": 59,
+      "collection": "nature"
     },
     {
       "img": "https://i.postimg.cc/6Q5pfKfK/img-Summer2.png",
       "descr": "Платья",
-      "id": 6
+      "id": 60,
+      "collection": "dress"
     },
     {
       "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
       "descr": "Платья",
-      "id": 7
+      "id": 61,
+      "collection": "dress"
     },
     {
       "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
       "descr": "Юбки",
-      "id": 8
+      "id": 62,
+      "collection": "skirts"
+    }
+  ],
+  "summer": [
+    {
+      "img": "https://i.postimg.cc/FKSDnFS9/img1.png",
+      "type": "Коллекция лето 2020",
+      "id": 1,
+      "collection": "summer",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "342 p",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "discount": "1365 р",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/m2xM83wF/img2.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 2,
+      "collection": "summer",
+      "price": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/vZTVmP8k/img3.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 3,
+      "collection": "summer",
+      "price": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Nf1XVyJC/img4.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 4,
+      "collection": "summer",
+      "price": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/760HBMmk/img5.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 5,
+      "collection": "summer",
+      "price": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/tgDNK4qT/img6.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 6,
+      "discount": "1365 р",
+      "collection": "summer",
+      "price": "342 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/3JH906c3/img7.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 7,
+      "collection": "summer",
+      "price": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/9fSYmN95/img8.png",
+      "descr": "Вечернее платье",
+      "type": "Коллекция лето 2020",
+      "id": 8,
+      "collection": "summer",
+      "price": "546 р",
+      "discount": "1365 р",
+      "size": "45-50",
+      "art": "Платье PL984/dakota",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "autumn": [
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 71,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 72,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 73,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 74,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 75,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 76,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 77,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/NGPXS92V/img-Summer1.png",
+      "type": "Коллекция осень 2020",
+      "id": 78,
+      "collection": "autumn",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "winter": [
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 79,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 80,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 81,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 82,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 83,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 84,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 85,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/Jzt7Kb7v/image31.png",
+      "type": "Коллекция зима 2020",
+      "id": 86,
+      "collection": "winter",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "skirt": [
+    {
+      "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
+      "type": "Юбки",
+      "id": 33,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
+      "type": "Юбки",
+      "id": 34,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
+      "type": "Юбки",
+      "id": 35,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/FdmWjdD9/newsimg4.png",
+      "type": "Юбки",
+      "id": 36,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/fVtrZhVh/newsimg1.png",
+      "type": "Юбки",
+      "id": 37,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/xXwF1FmN/newsimg2.png",
+      "type": "Юбки",
+      "id": 38,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/3y2f4CjS/newsimg3.png",
+      "type": "Юбки",
+      "id": 39,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/t4VQYD4q/img33.png",
+      "type": "Юбки",
+      "id": 40,
+      "collection": "skirts",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "nature": [
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 95,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 96,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 97,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 98,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 99,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 100,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 101,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Для выезда на природу",
+      "id": 102,
+      "collection": "nature",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "dress": [
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 103,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 104,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 105,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 106,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 107,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 108,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 109,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
+    },
+    {
+      "img": "https://i.postimg.cc/bJRjqJN1/img32.png",
+      "type": "Платья",
+      "id": 110,
+      "collection": "dress",
+      "art": "Платье PL984/dakota",
+      "descr": "Вечернее платье",
+      "price": "1365 р",
+      "size": "45-50",
+      "material": "Полиэстер ",
+      "consists": "Полиэстер ",
+      "count": 5,
+      "multiple": "https://i.postimg.cc/JnXBm9h5/multiple-Color.png",
+      "color": [
+        {
+          "id": 25,
+          "color": "#73A39D"
+        },
+        {
+          "id": 26,
+          "color": "#84CC4C"
+        },
+        {
+          "id": 27,
+          "color": "#B5A8A1"
+        },
+        {
+          "id": 28,
+          "color": "#AB844A"
+        },
+        {
+          "id": 29,
+          "color": "#6977F0"
+        },
+        {
+          "id": 30,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 31,
+          "color": "#141414"
+        },
+        {
+          "id": 32,
+          "color": "#FF0000"
+        }
+      ]
     }
   ]
 }
