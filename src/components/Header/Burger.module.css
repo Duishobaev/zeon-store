@@ -1,0 +1,17 @@
+/* .burger {
+  width: 2rem;
+  height: 2rem;
+  position: fixed;
+  top: 15px;
+  left: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column nowrap;
+  z-index: 99;
+}
+
+.lines {
+  width: 2rem;
+  height: 0.15rem;
+  background-color: black;
+} */

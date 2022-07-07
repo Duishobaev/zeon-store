@@ -1,0 +1,81 @@
+.helppage {
+  background: #ececec;
+}
+
+.helppage_item {
+  padding-top: 11px;
+  display: flex;
+  padding-bottom: 72px;
+}
+
+.Accord {
+  padding: 0 0 0 24px;
+  width: 100%;
+}
+
+.br {
+  margin: 6px 0px;
+}
+
+.accordion_title {
+  font-weight: 500;
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #393939;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.collection_top {
+  display: flex;
+  margin: 21px 0;
+}
+
+.collection_main {
+  margin-right: 16px;
+  color: #393939;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+}
+.collection_top__grey {
+  color: #979797;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.ac_descr {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 160%;
+  display: flex;
+  align-items: flex-end;
+  color: #354455;
+}
+
+.ac_title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #393939;
+}
+
+.Accord :global .css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  box-shadow: none;
+  border: none;
+  outline: none;
+  position: inherit;
+}

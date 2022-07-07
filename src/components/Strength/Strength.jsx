@@ -17,7 +17,7 @@ const Strength = () => {
 
   return (
     <>
-      <div className="wrapper">
+      <div className="wrapper str_wrap">
         <div className={classes.title}>
           <div className={classes.homeTitle}>Наши преимущества</div>
         </div>

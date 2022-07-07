@@ -112,13 +112,18 @@ const Favorite = () => {
                               deleteProdInFav(item1.item.id);
                             }}
                           />
-                          <CardMedia
-                            className={classes.img}
-                            height="140"
-                            component="img"
-                            image={item1.item.img}
-                            alt="image"
-                          />
+
+                          <Link
+                            to={`/${item1.item.collection}/${item1.item.id}`}
+                          >
+                            <CardMedia
+                              className={classes.img}
+                              height="140"
+                              component="img"
+                              image={item1.item.img}
+                              alt="image"
+                            />
+                          </Link>
                           <CardContent>
                             <Typography
                               className={classes.cardTitle}
@@ -128,18 +133,13 @@ const Favorite = () => {
                             >
                               {item1.item.type}
                             </Typography>
-                            {item1.item.discount ? (
+                            {item1.item.sale ? (
                               <div>
                                 <span className={classes.discount}>
                                   {Math.ceil(
-                                    item1.item.price -
-                                      (item1.item.price * item1.item.discount) /
-                                        100
+                                    (item1.item.price * item1.item.sale) / 100
                                   )}{" "}
                                   p
-                                </span>
-                                <span className={classes.discount}>
-                                  {item1.item.price} p
                                 </span>
                               </div>
                             ) : (
@@ -149,7 +149,7 @@ const Favorite = () => {
                                 color="text.secondary"
                               >
                                 <p className={classes.discount}>
-                                  {item1.item.price}{" "}
+                                  {item1.item.price} р
                                 </p>
                               </Typography>
                             )}

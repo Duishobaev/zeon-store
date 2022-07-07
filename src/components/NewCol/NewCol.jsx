@@ -33,6 +33,7 @@ const NewCol = () => {
                   <Link to={`/${item.collection}/${item.id}`}>
                     <img className={classes.photos} src={item.img} alt="/" />
                   </Link>
+
                   <div className={classes.list}>
                     <ul>
                       <li className={classes.title_dress}>{item.type}</li>

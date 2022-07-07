@@ -5,6 +5,10 @@
   margin: 0 auto;
   border-bottom: #f3f1f1 1px solid;
 }
+
+.headPhone:hover {
+  color: #393939;
+}
 .bord {
   display: flex;
   justify-content: center;
@@ -65,7 +69,7 @@
   height: 44px;
   background: #f8f8f8;
   border: 1px solid #e0e0e0;
-  background-image: url("../../images/searchLogo.svg");
+  /* background-image: url("../../images/searchLogo.svg"); */
   background-repeat: no-repeat;
   background-position: 620px 10px;
   padding: 13px 20px;
@@ -106,4 +110,30 @@
 
 .inp {
   outline: none;
+}
+
+nav {
+  display: none;
+}
+
+@media (max-width: 320px) {
+  .header {
+    display: none;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+  }
+  .burgZeonLogo {
+    width: 99px;
+    height: 43px;
+    padding-left: 10px;
+  }
+
+  .burgZeonSearch {
+    width: 18px;
+    height: 18px;
+  }
 }

@@ -1,0 +1,18 @@
+.inp:focus {
+  outline: none;
+}
+
+.searchInputs {
+  display: flex;
+}
+
+.inp {
+  position: relative;
+}
+
+.searchIcon {
+  position: absolute;
+  display: flex;
+  align-self: center;
+  margin-left: 629px;
+}

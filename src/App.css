@@ -1,7 +1,61 @@
 .wrapper {
   max-width: 1168px;
   margin: 0 auto;
+  position: relative;
 }
 li {
   list-style: none;
+}
+.follow1 {
+  width: 25%;
+  height: 3px;
+  background-color: #adadad;
+  position: absolute;
+  top: 77%;
+}
+
+.follow2 {
+  width: 25%;
+  height: 3px;
+  background-color: #adadad;
+  position: absolute;
+  top: 77%;
+  left: 25%;
+}
+
+.follow3 {
+  width: 25%;
+  height: 3px;
+  background-color: #adadad;
+  position: absolute;
+  top: 77%;
+  left: 50%;
+}
+
+.follow4 {
+  width: 25%;
+  height: 3px;
+  background-color: #adadad;
+  position: absolute;
+  top: 77%;
+  left: 75%;
+}
+
+.follow5 {
+  display: none;
+}
+
+.burgFlex {
+  display: none;
+}
+
+@media (max-width: 320px) {
+  .wrapper {
+    max-width: 288px;
+    margin: 0 auto;
+  }
+
+  .burgFlex {
+    display: flex;
+  }
 }

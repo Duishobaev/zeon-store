@@ -1,16 +1,22 @@
 import { Link } from "react-router-dom";
 import classes from "../Collections/Collections.module.css";
-import React, { useContext, useEffect } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import { getContextCol } from "../../context/ContextCol";
+import { Pagination } from "antd";
 
 const Collections = () => {
   const { collects, getColData } = useContext(getContextCol);
   const limit = 8;
+  const [page, setPage] = useState(1);
 
   useEffect(() => {
-    getColData(limit);
-  }, [limit]);
+    getColData(limit, page);
+  }, [limit, page]);
+
+  function onChange(page) {
+    setPage(page);
+  }
 
   return (
     <>
@@ -45,6 +51,13 @@ const Collections = () => {
               );
             })}
           </div>
+          <Pagination
+            defaultCurrent={1}
+            current={page}
+            total={32}
+            onChange={onChange}
+            className={classes.pagination}
+          />
         </div>
       </div>
     </>

@@ -71,3 +71,60 @@
 .public {
   display: none;
 }
+
+.zeon {
+  margin-bottom: 24px;
+  width: 100%;
+  padding-top: 16px;
+  margin-bottom: 24px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #b9b9b9;
+}
+
+@media (max-width: 320px) {
+  .footer {
+    background-color: #1d1d1b;
+    display: flex;
+    justify-content: center;
+  }
+
+  .wrapper {
+    width: 288px;
+  }
+  .footer_inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer_inner__nav {
+    margin: 24px 0 0 0;
+  }
+
+  .public {
+    display: block;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .zeon {
+    margin-bottom: 24px;
+    border-top: 1px solid #363635;
+    width: 100%;
+    padding-top: 16px;
+    margin-bottom: 24px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #b9b9b9;
+  }
+}

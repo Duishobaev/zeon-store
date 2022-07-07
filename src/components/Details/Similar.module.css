@@ -88,6 +88,14 @@
   position: relative;
 }
 .heart {
+  display: none;
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 190px;
+}
+
+.simLike:hover .heart {
+  display: block;
   position: absolute;
   margin-top: 13px;
   margin-left: 190px;

@@ -1,0 +1,147 @@
+.modal {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+}
+
+.modal.active {
+  transform: scale(1);
+}
+
+.modal__content {
+  padding: 32px 38px;
+  background-color: #fff;
+  width: 436px;
+  position: relative;
+  height: 316px;
+}
+
+.modal_close {
+  position: absolute;
+  top: 17px;
+  right: 17px;
+}
+
+.modal_title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 125%;
+  color: #393939;
+}
+
+.modal_subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #393939;
+  margin-bottom: 12px;
+}
+
+.submission_form {
+  display: block;
+  padding: 10px 12px;
+  width: 360px;
+  height: 44px;
+  margin-bottom: 10px;
+  border: 1px solid silver;
+  outline: none;
+  padding-left: 40px;
+}
+
+.submission_form[name="name"] {
+  background: url(../../images/button_call.svg);
+  background-repeat: no-repeat;
+  background-position: 3% 50%;
+}
+
+.submission_form[name="phone"] {
+  background: url(../../images/button_phone.svg);
+  background-repeat: no-repeat;
+  background-position: 3% 50%;
+}
+
+.form_button {
+  width: 360px;
+  padding: 14px 20px;
+  border: none;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.4),
+      rgba(255, 255, 255, 0.4)
+    ),
+    #1d1d1b;
+  color: #fff;
+}
+
+.form_button:hover {
+  background: #1d1d1b;
+}
+
+.modal_thanks {
+  background: #fff;
+  padding: 30px 24px 28px 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 328px;
+}
+
+.title_thanks {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 100%;
+  color: #393939;
+  padding-top: 14px;
+}
+
+.modal_thanks_info {
+  text-align: center;
+  padding-top: 8px;
+}
+
+.modal_thanks_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 13px 0px;
+  width: 280px;
+  background: #1d1d1b;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  margin-top: 16px;
+}
+
+.hooks {
+  position: fixed;
+  top: 50%;
+  right: 220px;
+}
+
+.hooks_item {
+  position: fixed;
+  top: 54%;
+  right: 260px;
+  display: none;
+}
+
+.hooks_items {
+  position: fixed;
+  top: 54%;
+  right: 260px;
+  display: block;
+}
+
+@media (max-width: 320px) {
+  .hooks {
+    display: none;
+  }
+}

@@ -1,0 +1,100 @@
+.burgWindow {
+  display: none;
+}
+
+@media (max-width: 320px) {
+  .burgWindow {
+    display: block;
+    width: 250px;
+    height: 650px;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-left: 16px;
+    left: 0;
+    position: absolute;
+    z-index: 50;
+    background-color: white;
+  }
+
+  .burgMenu {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .burgMenu_title {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #393939;
+    margin-bottom: 20px;
+  }
+
+  .nav_left li {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #393939;
+    margin-bottom: 18px;
+  }
+
+  .burgMenu_fav {
+    border-top: 1px solid #d3d3d3;
+    width: 100px;
+    padding-top: 15px;
+    margin-bottom: 20px;
+  }
+
+  .burgMenu_fav span {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #393939;
+    margin-left: 6px;
+  }
+
+  .burgMenu_fav img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .burgMenu_cart {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+
+  .burgMenu_cart span {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #393939;
+    margin-left: 6px;
+  }
+
+  .burgMenu_cart img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .burgImg {
+    margin-right: 6px;
+    margin-top: 8px;
+  }
+
+  .burgFont {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #393939;
+    margin-top: 300px;
+  }
+}

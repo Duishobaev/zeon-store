@@ -109,3 +109,33 @@
   font-size: 14px;
   line-height: 17px;
 }
+
+.pagination {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 49px !important;
+}
+
+.pagination li {
+  border: none;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+}
+.pagination li a {
+  font-family: "Montserrat";
+  font-size: 16px;
+  margin: 0 auto;
+}
+.pagination li button {
+  border: none !important;
+}
+
+.pagination :global .ant-pagination-item-active {
+  background: #1d1d1b;
+}
+
+.pagination :global .ant-pagination-item-active a {
+  color: #fff;
+}

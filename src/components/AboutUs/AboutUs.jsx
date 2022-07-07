@@ -1,8 +1,5 @@
 import React, { useEffect, useState } from "react";
 import classes from "../AboutUs/AboutUs.module.css";
-import aboutImg1 from "../../images/aboutPhoto1.png";
-import aboutImg2 from "../../images/aboutPhoto2.png";
-import aboutImg3 from "../../images/aboutPhoto3.png";
 import { Link } from "react-router-dom";
 import axios from "axios";
 

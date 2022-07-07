@@ -97,6 +97,33 @@ const CartContextProvider = ({ children }) => {
     cartData?.products.splice(index, 1);
 
     localStorage.setItem("cart", JSON.stringify(cartData));
+    getCart();
+  };
+
+  const increase = (item) => {
+    let cartData = JSON.parse(localStorage.getItem("cart"));
+    cartData.products.map((elem) => {
+      if (elem.item.id == item.id && elem.item.color == item.color) {
+        elem.item.count = elem.item.count + 1;
+      }
+    });
+
+    localStorage.setItem("cart", JSON.stringify(cartData));
+    getCart();
+  };
+
+  const decrease = (item) => {
+    let cartData = JSON.parse(localStorage.getItem("cart"));
+    cartData.products.map((elem) => {
+      if (elem.item.id == item.id && elem.item.color == item.color) {
+        elem.item.count == 1
+          ? (elem.item.count = elem.item.count - 0)
+          : (elem.item.count = elem.item.count - 1);
+      }
+    });
+
+    localStorage.setItem("cart", JSON.stringify(cartData));
+    getCart();
   };
 
   return (
@@ -109,6 +136,8 @@ const CartContextProvider = ({ children }) => {
         deleteProdInCart,
         isProdInCart,
         checkColor,
+        increase,
+        decrease,
       }}
     >
       {children}

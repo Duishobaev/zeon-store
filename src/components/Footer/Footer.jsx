@@ -91,7 +91,7 @@ const Footer = () => {
             );
           })}
 
-          <p>Developed by Zeon 2022</p>
+          <div className={classes.zeon}>Developed by Zeon 2022</div>
         </div>
       </div>
     </>

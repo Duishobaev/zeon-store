@@ -45,8 +45,10 @@ const reducer = (state = INIT_STATE, action) => {
 const ContextProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, INIT_STATE);
 
-  const getItemsData = async (limit) => {
-    let { data } = await axios(`http://localhost:8000/items?_limit=${limit}`);
+  const getItemsData = async (limit, page) => {
+    let { data } = await axios(
+      `http://localhost:8000/items?_limit=${limit}&_page=${page}`
+    );
     dispatch({
       type: "GET_ITEM_DATA",
       payload: data,
@@ -61,9 +63,9 @@ const ContextProvider = ({ children }) => {
     });
   };
 
-  const getColData = async (limit) => {
+  const getColData = async (limit, page) => {
     let { data } = await axios(
-      `http://localhost:8000/collections?_limit=${limit}`
+      `http://localhost:8000/collections?_limit=${limit}&_page=${page}`
     );
     dispatch({
       type: "GET_COLLECT_DATA",

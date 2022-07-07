@@ -3,6 +3,7 @@ import { getContext } from "../../context/Context";
 import classes from "../ColList/ColList.module.css";
 import { Link } from "react-router-dom";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
+import { Pagination } from "antd";
 
 const ColList = () => {
   const { collections, getColData } = useContext(getContext);

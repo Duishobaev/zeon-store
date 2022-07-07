@@ -3,6 +3,7 @@ import { ReactComponent as Heart } from "../../assets/Vector.svg";
 import { ReactComponent as EmptyHeart } from "../../assets/EmptyHeart.svg";
 import classes from "../RandomView/RandomView.module.css";
 import { favoriteContext } from "../../context/FavoriteContext";
+import { Link } from "react-router-dom";
 
 const RandomView = ({ item }) => {
   const { addDelFav, isProdInFav } = useContext(favoriteContext);
@@ -13,7 +14,9 @@ const RandomView = ({ item }) => {
       <div className="wrapper">
         <div className={classes.home}>
           <div className={classes.home_item}>
-            <img className={classes.photos} src={item.img} alt="" />
+            <Link to={`/${item.collection}/${item.id}`}>
+              <img className={classes.photos} src={item.img} alt="" />
+            </Link>
             {inFav ? (
               <Heart
                 className={classes.heart}

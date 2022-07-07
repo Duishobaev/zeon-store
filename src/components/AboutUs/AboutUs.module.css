@@ -76,6 +76,7 @@
   line-height: 29px;
   color: #393939;
   padding: 12px 0 8px 24px;
+  margin-bottom: 0;
 }
 
 .rightDesc p {
@@ -87,4 +88,46 @@
   line-height: 160%;
   color: #979797;
   padding: 0 24px 12px;
+}
+
+@media (max-width: 320px) {
+  .wrapper {
+    margin: 0 auto;
+    width: 288px;
+  }
+
+  .aboutUs {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .leftImages {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .pic1 {
+    width: 130px;
+    height: 160px;
+    margin: 0 12px 12px 0;
+  }
+  .pic2 {
+    width: 130px;
+    height: 160px;
+  }
+
+  .pic3 {
+    width: 130px;
+    height: 160px;
+    margin-right: 24px;
+  }
+
+  .rightDesc {
+    margin-bottom: 76px;
+  }
+
+  .rightDesc h3 {
+    margin-top: 24px;
+  }
 }

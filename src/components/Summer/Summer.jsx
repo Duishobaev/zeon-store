@@ -3,19 +3,27 @@ import { getContext } from "../../context/Context";
 import SummerCol from "./SummerCol";
 import classes from "../Summer/Summer.module.css";
 import { Link } from "react-router-dom";
+import { Pagination } from "antd";
+import NewCol from "../NewCol/NewCol";
+import Similar from "../Details/Similar";
 
 const Summer = () => {
   const { items, getItemsData } = useContext(getContext);
   const [limit, setLimit] = useState(12);
+  const [page, setPage] = useState(1);
 
   useEffect(() => {
-    getItemsData(limit);
-  }, []);
+    getItemsData(limit, page);
+  }, [page]);
 
   const [type, setType] = useState("");
   const bread = (type) => {
     setType(type);
   };
+
+  function onChange(page) {
+    setPage(page);
+  }
 
   return (
     <>
@@ -42,6 +50,15 @@ const Summer = () => {
               <SummerCol key={item.id} item={item} bread={bread} />
             ))}
           </div>
+          <Pagination
+            defaultCurrent={1}
+            current={page}
+            total={32}
+            onChange={onChange}
+            className={classes.pagination}
+          />
+
+          <Similar />
         </div>
       </div>
     </>

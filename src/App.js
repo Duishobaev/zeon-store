@@ -6,6 +6,7 @@ import ContextProvider from "./context/Context";
 import ContextColProvider from "./context/ContextCol";
 import FavoriteContextProvider from "./context/FavoriteContext";
 import MainRoutes from "./MainRoutes";
+import "antd/dist/antd.css";
 
 function App() {
   return (

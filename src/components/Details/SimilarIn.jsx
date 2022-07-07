@@ -18,6 +18,7 @@ const SimilarIn = ({ card }) => {
       <div key={card.id}>
         <div className={classes.simLike}>
           <img className={classes.simImg} src={card.img} alt="" />
+
           {inFav ? (
             <Heart
               className={classes.heart}

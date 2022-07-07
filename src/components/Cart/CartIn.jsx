@@ -2,28 +2,15 @@ import React, { useContext } from "react";
 import classes from "./Cart.module.css";
 import close from "../../images/close.svg";
 import { useEffect } from "react";
-import { useState } from "react";
 import { cartContext } from "../../context/CartContext";
 
 const CartIn = ({ item }) => {
-  const { cart, getCart, deleteProdInCart } = useContext(cartContext);
+  const { cart, getCart, deleteProdInCart, increase, decrease } =
+    useContext(cartContext);
 
   useEffect(() => {
     getCart();
   }, []);
-
-  // const [quantity, setQuantity] = useState(1);
-
-  const increase = (quan) => {
-    // setQuantity(item.item.count + quan);
-  };
-
-  const degrees = (quan) => {
-    // if (quantity == 1) {
-    //   quan = 0;
-    // }
-    // setQuantity(quantity - quan);
-  };
 
   return (
     <>
@@ -73,11 +60,17 @@ const CartIn = ({ item }) => {
             <p className={classes.discount}>1755 r</p>
           </div>
           <div style={{ display: "flex" }}>
-            <button onClick={() => degrees(1)} className={classes.cartBtn}>
+            <button
+              onClick={() => decrease(item.item)}
+              className={classes.cartBtn}
+            >
               -
             </button>
             <div className={classes.quantity}>{item.item.count}</div>
-            <button onClick={() => increase(1)} className={classes.cartBtn}>
+            <button
+              onClick={() => increase(item.item)}
+              className={classes.cartBtn}
+            >
               +
             </button>
           </div>

@@ -33,10 +33,26 @@ const DetailCard = ({ detail }) => {
       <div className={classes.details_top}>
         <div className={classes.details1}>
           <div className={classes.details_left}>
-            <img className={classes.img} src={detail.img} alt="img" />
-            <img className={classes.img} src={detail.img} alt="img" />
-            <img className={classes.img} src={detail.img} alt="img" />
-            <img className={classes.img} src={detail.img} alt="img" />
+            <img
+              className={(classes.img, classes.img1)}
+              src={detail.img}
+              alt="img"
+            />
+            <img
+              className={(classes.img, classes.img2)}
+              src={detail.img}
+              alt="img"
+            />
+            <img
+              className={(classes.img, classes.img3)}
+              src={detail.img}
+              alt="img"
+            />
+            <img
+              className={(classes.img, classes.img4)}
+              src={detail.img}
+              alt="img"
+            />
           </div>
           <div className={classes.details_left2}>
             <img className={classes.img_small} src={detail.img} alt="" />
@@ -50,7 +66,7 @@ const DetailCard = ({ detail }) => {
           <div className={classes.details_card}>
             <h4>Вечернее платье</h4>
             <div className={classes.artikul}>
-              Артикул:{" "}
+              Артикул:
               <p style={{ marginLeft: "6px", color: "#393939" }}>
                 {detail.art}
               </p>

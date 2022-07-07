@@ -262,3 +262,118 @@
   font-size: 14px;
   line-height: 17px;
 }
+
+p {
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: 320px) {
+  .details_top {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .details_left2 {
+    display: none;
+  }
+
+  .img2 {
+    display: none;
+  }
+  .img3 {
+    display: none;
+  }
+  .img4 {
+    display: none;
+  }
+  .img1 {
+    width: 262px;
+    height: 394px;
+  }
+
+  .details2 {
+    width: 288px;
+  }
+
+  .details_card h4 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #393939;
+  }
+  .artikul {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #393939;
+  }
+
+  .color {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #1d1d1b;
+    margin-bottom: 20px;
+  }
+
+  .price {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #393939;
+  }
+
+  .about_title {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #393939;
+  }
+
+  .about {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 170%;
+    color: #6a6a6a;
+  }
+
+  .details_descr {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .details_descr_inner1 {
+    display: flex;
+  }
+
+  .details_descr li {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #393939;
+  }
+}
